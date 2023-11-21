@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.4082mm" height="7.4082mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 34.87 34.87"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:1.87;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#E3B873}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Group_x0020_3">
+   <g id="Group_x0020_2_2">
+    <circle id="Ellipse" class="fil0" cx="17.43" cy="17.43" r="17.43"/>
+    <g id="Group">
+     <g id="Group_2">
+      <path id="Vector" class="fil1 str0" d="M10.46 10.96l13.95 0c0.96,0 1.74,0.78 1.74,1.74l0 10.46c0,0.96 -0.78,1.74 -1.74,1.74l-13.95 0c-0.96,0 -1.74,-0.78 -1.74,-1.74l0 -10.46c0,-0.96 0.78,-1.74 1.74,-1.74z"/>
+      <polyline id="Vector_2" class="fil1 str0" points="26.15,12.7 17.43,18.8 8.72,12.7 "/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
